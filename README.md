@@ -1,6 +1,6 @@
 ##  Author:
 
-Antony Kirunyu
+Antony Kirunyu ngure
 ## General info.
 ### Hydroponic farming,
 This is gardening without soil. Plants expend a great deal of energy growing roots system so they can search  soil for the water and nutrients needed for survival.
